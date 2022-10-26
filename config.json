@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/tassosmak/README.md",
+  "title": "Tassos Makrostergios",
+  "name": "Tassos Makrostergios",
+  "ascii": "Tassos Makrostergios",
   "social": {
-    "github": "github",
+    "github": "github.com/tassosmak",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "tasos23072007@outlook.com.gr",
+  "ps1_hostname": "Makrostergios",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/tassosmak/PyTerminal",
+  "resume_url": "https://github.com/tassosmak/README.MD",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/tassosmak",
+    "patreon": "https://patreon.com/"
   },
   "colors": {
     "light": {
